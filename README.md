@@ -22,7 +22,7 @@ If you need to delete an event, simply click the delete button at the right of t
 
 If you leave the page and come back, your events will still be listed for you to keep track of.
 
-
+<img src="https://github.com/wolfvilla/Work-Day-Schedular/blob/main/images/Sreenshot_WDS.JPG" width="700px">
 
 
 
